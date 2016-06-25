@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TesisMSc.aux
+A level-1 auxiliary file: HojaTitulo/HojaTituloMSc.aux
+A level-1 auxiliary file: Tab_Simbolos/TabSimbolosMSc.aux
+A level-1 auxiliary file: Kap1/Kap1.aux
+A level-1 auxiliary file: Kap2/Kap2.aux
+A level-1 auxiliary file: Kap3/Kap3.aux
+A level-1 auxiliary file: Kap4/Kap4.aux
+A level-1 auxiliary file: Kap5/Kap5.aux
+A level-1 auxiliary file: Kap6/Kap6.aux
+A level-1 auxiliary file: Anexos/Anexos.aux
+The style file: plaindin_esp.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: BibliMSc.bib
+Warning--I didn't find a database entry for "AG08a"
+Warning--empty edition in AG03p
+Warning--empty edition in G1
+Warning--empty edition in AG04p
+Warning--empty edition in AG09a
+Warning--empty edition in AG09b
+Warning--empty note in AG52
+You've used 12 entries,
+            2720 wiz_defined-function locations,
+            698 strings with 5765 characters,
+and the built_in function-call counts, 4479 in all, are:
+= -- 450
+> -- 123
+< -- 107
++ -- 136
+- -- 38
+* -- 279
+:= -- 877
+add.period$ -- 14
+call.type$ -- 12
+change.case$ -- 43
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 135
+empty$ -- 348
+format.name$ -- 57
+if$ -- 877
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 13
+newline$ -- 66
+num.names$ -- 24
+pop$ -- 59
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 188
+stack$ -- 0
+substring$ -- 251
+swap$ -- 34
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 6
+while$ -- 46
+width$ -- 14
+write$ -- 148
+(There were 7 warnings)

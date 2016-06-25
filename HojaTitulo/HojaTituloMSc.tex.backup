@@ -3,10 +3,10 @@
 \begin{center}
 \begin{figure}
 \centering%
-\epsfig{file=HojaTitulo/logo.eps,scale=0.25}%
+\epsfig{file=HojaTitulo/EscudoUN.eps,scale=1}%
 \end{figure}
 \thispagestyle{empty} \vspace*{2.0cm} \textbf{\huge
-An\'{a}lisis de Modos Normales en una Biomol\'{e}cula}\\[6.0cm]
+An\'{a}lisis de Modos Normales en una Biomol\'{e}cula\\[6.0cm]
 \Large\textbf{John Erick Cabrera Ramirez}\\[6.0cm]
 \small Universidad Nacional de Colombia\\
 Facultad de Ciencias, Departamento de F\'{i}sica\\
@@ -18,9 +18,11 @@ Bogot\'{a}, Colombia\\
 
 \newpage
 \begin{center}
-\thispagestyle{empty} \vspace*{0cm} \textbf{\huge An\'{a}lisis de de Modos Normales en una Biomol\'{e}cula}\\[3.0cm]
+\thispagestyle{empty} \vspace*{0cm} \textbf{\huge
+An'{\a}lisis de de Modos Normales en una Biomol\'{e}cula\\[3.0cm]
 \Large\textbf{John Erick Cabrera Ramirez}\\[3.0cm]
-\small Tesis o trabajo de grado presentada(o) como requisito parcial para optar al t\'{\i}tulo de:\\
+\small Tesis o trabajo de grado presentada(o) como requisito parcial para optar al
+t\'{\i}tulo de:\\
 \textbf{F\'{i}sico}\\[2.5cm]
 Director(a):\\
 PhD, ,Yuly Edith S\'{a}nchez Mendoza \\[2.0cm]
